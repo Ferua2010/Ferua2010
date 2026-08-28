@@ -1,6 +1,6 @@
 # <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&color=58a6ff&center=true&vCenter=true&lines=Felipe+Rua;Desenvolvedor+Full+Stack" alt="Felipe Rua"/>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&color=FF0000&center=true&vCenter=true&lines=Felipe+Rua;Desenvolvedor+Full+Stack" alt="Felipe Rua"/>
 
 </div>
 
@@ -102,15 +102,15 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e cr
 
 ---
 
-## 📫 Conecte-se Comigo
+## 📫 Contato
 
 </div>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-site.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruabragafelipe@gmail.com)
+
+### 📧 ruabragafelipe@gmail.com
 
 </div>
 
