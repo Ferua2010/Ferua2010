@@ -10,7 +10,6 @@
             padding: 0;
             box-sizing: border-box;
         }
-
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
@@ -20,7 +19,6 @@
             align-items: center;
             overflow: hidden;
         }
-
         .container {
             text-align: center;
             padding: 40px;
@@ -29,7 +27,6 @@
             backdrop-filter: blur(10px);
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
         }
-
         .name {
             font-size: 3.5em;
             color: #fff;
@@ -37,12 +34,10 @@
             position: relative;
             animation: glow 2s ease-in-out infinite alternate;
         }
-
         .name span {
             display: inline-block;
             animation: wave 1.5s ease-in-out infinite;
         }
-
         .name span:nth-child(1) { animation-delay: 0s; }
         .name span:nth-child(2) { animation-delay: 0.1s; }
         .name span:nth-child(3) { animation-delay: 0.2s; }
@@ -59,7 +54,6 @@
         .name span:nth-child(14) { animation-delay: 1.3s; }
         .name span:nth-child(15) { animation-delay: 1.4s; }
         .name span:nth-child(16) { animation-delay: 1.5s; }
-
         @keyframes wave {
             0%, 100% {
                 transform: translateY(0);
@@ -68,7 +62,6 @@
                 transform: translateY(-20px);
             }
         }
-
         @keyframes glow {
             from {
                 text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073;
@@ -77,7 +70,6 @@
                 text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6;
             }
         }
-
         .skills-title {
             font-size: 1.8em;
             color: #fff;
@@ -85,14 +77,12 @@
             opacity: 0;
             animation: fadeIn 1s ease-in-out 1s forwards;
         }
-
         .skills-container {
             display: flex;
             justify-content: center;
             gap: 20px;
             flex-wrap: wrap;
         }
-
         .skill-card {
             background: linear-gradient(145deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.05));
             padding: 25px 35px;
@@ -106,43 +96,35 @@
             animation: slideUp 0.8s ease-out forwards;
             border: 2px solid transparent;
         }
-
         .skill-card:hover {
             transform: translateY(-10px) scale(1.05);
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
         }
-
         .skill-card:nth-child(1) { animation-delay: 1.5s; border-color: #f7df1e; }
         .skill-card:nth-child(2) { animation-delay: 1.7s; border-color: #00758f; }
         .skill-card:nth-child(3) { animation-delay: 1.9s; border-color: #e34c26; }
         .skill-card:nth-child(4) { animation-delay: 2.1s; border-color: #777bb4; }
-
         .skill-card.javascript:hover {
             background: linear-gradient(145deg, #f7df1e, #ffd700);
             color: #1a1a2e;
         }
-
         .skill-card.sql:hover {
             background: linear-gradient(145deg, #00758f, #0095b5);
             color: #fff;
         }
-
         .skill-card.html:hover {
             background: linear-gradient(145deg, #e34c26, #ff6b4a);
             color: #fff;
         }
-
         .skill-card.php:hover {
             background: linear-gradient(145deg, #777bb4, #8f93c9);
             color: #fff;
         }
-
         @keyframes fadeIn {
             to {
                 opacity: 1;
             }
         }
-
         @keyframes slideUp {
             from {
                 opacity: 0;
@@ -153,7 +135,6 @@
                 transform: translateY(0);
             }
         }
-
         .particles {
             position: fixed;
             top: 0;
@@ -164,7 +145,6 @@
             overflow: hidden;
             z-index: -1;
         }
-
         .particle {
             position: absolute;
             width: 10px;
@@ -173,7 +153,6 @@
             border-radius: 50%;
             animation: float 15s infinite;
         }
-
         @keyframes float {
             0%, 100% {
                 transform: translateY(100vh) rotate(0deg);
@@ -194,12 +173,9 @@
 </head>
 <body>
     <div class="particles" id="particles"></div>
-    
     <div class="container">
         <h1 class="name" id="animatedName"></h1>
-        
         <h2 class="skills-title">Linguagens que domino</h2>
-        
         <div class="skills-container">
             <div class="skill-card javascript">JavaScript</div>
             <div class="skill-card sql">SQL</div>
@@ -207,20 +183,16 @@
             <div class="skill-card php">PHP</div>
         </div>
     </div>
-
     <script>
         // Anima o nome letra por letra
         const name = "Felipe Rua Braga";
         const nameElement = document.getElementById("animatedName");
-        
         name.split("").forEach((letter, index) => {
             const span = document.createElement("span");
             span.textContent = letter === " " ? "\u00A0" : letter;
             span.style.animationDelay = `${index * 0.1}s`;
             nameElement.appendChild(span);
         });
-
-        // Cria partículas flutuantes
         const particlesContainer = document.getElementById("particles");
         for (let i = 0; i < 50; i++) {
             const particle = document.createElement("div");
