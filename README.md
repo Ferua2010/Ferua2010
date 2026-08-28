@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&color=FF0000&center=true&vCenter=true&width=450&lines=Felipe+Rua" alt="Felipe Rua"/>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&color=FF0000&center=true&vCenter=true&width=500&lines=Felipe+Rua" alt="Felipe Rua"/>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&color=58a6ff&center=true&vCenter=true&width=400&lines=Desenvolvedor+Full+Stack" alt="Desenvolvedor Full Stack"/>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&color=58a6ff&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack" alt="Desenvolvedor Full Stack"/>
 
 ### 💻 JavaScript | PHP | SQL | HTML | 🚀
 
@@ -25,7 +25,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e cr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" height="80" alt="PHP"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" height="80" alt="SQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html-original.svg" width="80" height="80" alt="HTML5"/>
 
 ### Tecnologias & Ferramentas
 
@@ -81,6 +81,13 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e cr
 
 ---
 
+<img src="https://komarev.com/profile/SEU-USERNAME" alt="Profile Views"/>
+
+<br><br>
+
+### ⭐ Obrigado por visitar meu perfil! ⭐
+
+</div>
 <img src="https://komarev.com/profile/SEU-USERNAME" alt="Profile Views"/>
 
 <br><br>
