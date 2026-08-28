@@ -1,8 +1,10 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&duration=3000&color=FF0000&center=true&vCenter=true&lines=Felipe+Rua;Desenvolvedor+Full+Stack" alt="Felipe Rua"/>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&color=FF0000&center=true&vCenter=true&width=450&lines=Felipe+Rua" alt="Felipe Rua"/>
 
-### 💻 Desenvolvedor Full Stack | 🚀 Criador de Soluções
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&color=58a6ff&center=true&vCenter=true&width=400&lines=Desenvolvedor+Full+Stack" alt="Desenvolvedor Full Stack"/>
+
+### 💻 JavaScript | PHP | SQL | HTML | 🚀
 
 ---
 
